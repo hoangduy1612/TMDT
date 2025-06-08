@@ -1,0 +1,5 @@
+﻿@media (min-width: 992px) and (max-width: 1199px) {
+    .header_top {
+        background: green;
+    }
+}
